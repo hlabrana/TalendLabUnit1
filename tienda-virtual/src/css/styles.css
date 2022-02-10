@@ -1,0 +1,9 @@
+.carousel-item img {
+height: 600PX;
+}
+
+.carousel-caption {
+    background-color: rgba(224, 218, 245, 0.651);
+    color: black;
+    margin: 5px;
+}
