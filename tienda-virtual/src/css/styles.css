@@ -7,3 +7,7 @@ height: 600PX;
     color: black;
     margin: 5px;
 }
+
+.aside {
+    display: inline-block;
+}
